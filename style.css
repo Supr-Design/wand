@@ -13,6 +13,10 @@ body {
     text-align: center;
 }
 
+i {
+    font: 15px/1.25 'Raleway', sans-serif;
+}
+
 #wrapper {
     margin-left: auto;
     margin-right: auto;
@@ -30,7 +34,7 @@ body {
 }
 
 h1 {
-    animation: text-shadow 2.0s ease-in-out infinite;
+    animation: text-shadow 2.5s ease-in-out infinite;
     font-size: 2em;
     font-weight: 900;
     line-height: 3;
